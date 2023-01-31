@@ -1,2 +1,1 @@
-# data-science-portfolio
-This repository contains data science projects
+# Data Science Portfolio
