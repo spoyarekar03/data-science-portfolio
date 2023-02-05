@@ -13,3 +13,7 @@ Note: Data used in the projects is for demonstration purposes only.
 - ### Machine Learning
 
 	- [Predicting Sales for Advertisement](https://github.com/spoyarekar03/data-science-portfolio/blob/main/Supervised_Regression/Predicting%20Sales%20for%20Advertising.ipynb): The developed model predicts the overall revenue increase after advertising through various mediums.
+
+ - ### Other Projects   
+
+	- [Linear regression](https://github.com/spoyarekar03/data-science-portfolio/blob/main/Other%20projects/Linear_regression/Ecommerce%20Linear%20Regression.ipynb): The developed model predict company's decision for improving user experience on mobile or website.
