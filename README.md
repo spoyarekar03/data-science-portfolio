@@ -21,5 +21,8 @@ Note: Data used in the projects is for demonstration purposes only.
 
 	- [Logistic regression](https://github.com/spoyarekar03/data-science-portfolio/blob/main/Other%20projects/Logistic_regression/Predicting_Survival_using_Logistic_regression.ipynb): The developed model predicts the Survival of Titanic Passengers.
 
-
 	- [KNN Classification](https://github.com/spoyarekar03/data-science-portfolio/blob/main/Other%20projects/KNN/Drug_classification_using%20KNN.ipynb): The developed model predicts the classification of drug for various parameter.
+
+	- [Support Vector Machine](https://github.com/spoyarekar03/data-science-portfolio/blob/main/Other%20projects/SVM/Credit_risk_SVM.ipynb): The developed model predicts the eligibility of a candidate for a loan.
+
+	- [Decision Tree](https://github.com/spoyarekar03/data-science-portfolio/blob/main/Other%20projects/Decision_Tree/Chance_of_admission_DT.ipynb): The developed model predicts the chance of admission for any candidate.
