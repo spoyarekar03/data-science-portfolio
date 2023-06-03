@@ -5,7 +5,7 @@ Note: Data used in the projects is for demonstration purposes only.
 
 ## Instructions for Running Python Notebooks Locally
 
-1. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
+1. Run notebooks as usual by using a jupyter notebook server/Vscode etc.
 2. Update the path to the data directory as per your local setup.
 
 ## Contents
