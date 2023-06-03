@@ -13,7 +13,9 @@ Note: Data used in the projects is for demonstration purposes only.
 
 	- [Predicting Sales for Advertisement](https://github.com/spoyarekar03/data-science-portfolio/blob/main/Supervised_Regression/Predicting%20Sales%20for%20Advertising.ipynb): The developed model predicts the overall revenue increase after advertising through various mediums.
 
-	- [Mobile price prediction](https://github.com/spoyarekar03/data-science-portfolio/blob/main/Supervised_Classificiation/Mobile_price_prediction_using_Classification.ipynb): The developed model predicts a price range of mobiles, indicating the variation in the prices using different Machine Learning algorithms.	
+	- [Mobile price prediction](https://github.com/spoyarekar03/data-science-portfolio/blob/main/Supervised_Classificiation/Mobile_price_prediction_using_Classification.ipynb): The developed model predicts a price range of mobiles, indicating the variation in the prices using different Machine Learning algorithms.
+
+	- [Customer Segmentation and Analysis](https://github.com/spoyarekar03/data-science-portfolio/tree/main/Unsupervised_Learning): The purpose of this code is to perform customer segmentation based on their spending habits and demographics. The code utilizes the K-means clustering algorithm to categorize customers into different groups and identify patterns and trends in their behavior. 
 
  - ### Other Projects   
 
